@@ -1,3 +1,4 @@
+// Coded by: QyFashae
 <input type="file" id="fileInput" onchange="uploadFile()">
 
 <script>
